@@ -1,3 +1,3 @@
-# Land_Registry_USING_BLOCKCHAIN
+# MySmartContract := Land_Registry
 
 Blockchain Smart Contract
